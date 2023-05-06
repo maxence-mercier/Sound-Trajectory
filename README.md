@@ -11,3 +11,11 @@ https://xr2c2.univ-cotedazur.fr/
 https://sfmusicologie.fr/
 
 http://www.afim-asso.org/
+
+-------------
+Documentations : 
+
+https://www.tripinlab.com/documentation/
+
+This source code is editable and executable with Cycling74's Max software. You will need the following packages: Icst_Ambisonics, jash_objects, HissTools, Syphon (mac only) and Spout (Windows only)
+
