@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="440"
+   height="440"
+   viewBox="0 0 440 440"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="trajectory.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="2.1454545"
+     inkscape:cx="250.98137"
+     inkscape:cy="224.21259"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">trajectory</title>
+  <g
+     id="4f9346dd-2654-42fc-8ee1-299a071807a2"
+     data-name="Calque 2">
+    <g
+       id="166425e6-98ef-4725-b23e-b4576f4f5cbf"
+       data-name="Calque 1">
+      <rect
+         x="4"
+         y="4"
+         width="432"
+         height="432"
+         style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"
+         id="rect6" />
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#808080;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 76.90678,356.10169 c 43.90785,-25.20074 -9.84946,-117.03221 30.76271,-142.62711 46.6388,-29.39304 72.70716,150.32015 151.48305,99.74576 67.49846,-43.33425 -55.71039,-85.98453 -30.76272,-124.44915 28.83467,-44.45764 102.9291,59.60578 126.77967,22.37287 19.93696,-31.12339 -19.82802,-87.50184 25.16949,-111.864404"
+     id="path20"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssssc" />
+</svg>

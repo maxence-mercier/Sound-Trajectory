@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>mix</title>
+  <g id="98d9ccee-5068-43ed-a5ec-d9d83f1b3c39" data-name="Calque 2">
+    <g id="97d4ac49-0b20-496d-b958-7f1c51530aee" data-name="Calque 1">
+      <path d="M114.9,168V354.9" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M114.9,83.23v40.5" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M188.12,316.3v38.6" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M188.12,83.23V270.16" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M255.57,221.68V354.9" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M255.57,83.23v94.62" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M323,291.43V355" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M323,83.34V247.71" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <circle cx="114.9" cy="145.24" r="22.99" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <circle cx="188.12" cy="291.43" r="22.99" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <circle cx="255.57" cy="196.93" r="22.99" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <circle cx="323.01" cy="268.44" r="22.99" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <rect x="4" y="4" width="432" height="432" style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"/>
+    </g>
+  </g>
+</svg>

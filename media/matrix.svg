@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>matrix</title>
+  <g id="3fb736e4-412d-4e94-a919-5b9466e87712" data-name="Calque 2">
+    <g id="f3b29e5c-0a2f-46f7-8830-3c2d70b5975f" data-name="Calque 1">
+      <rect x="85.21" y="85" width="67.45" height="67.45" style="fill: #b3b3b3;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="186.38" y="85" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="287.55" y="85" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="85.21" y="186.17" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="186.38" y="186.17" width="67.45" height="67.45" style="fill: #b3b3b3;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="287.55" y="186.17" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="85.21" y="287.34" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="186.38" y="287.34" width="67.45" height="67.45" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="287.55" y="287.34" width="67.45" height="67.45" style="fill: #999;stroke: #999;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <rect x="4" y="4" width="432" height="432" style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"/>
+    </g>
+  </g>
+</svg>

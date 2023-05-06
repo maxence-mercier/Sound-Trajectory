@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>fullscreen</title>
+  <g id="ae4c9b18-5e6d-46dd-88f0-22f6346b8b38" data-name="Calque 2">
+    <g id="1c08d225-666f-43ca-9219-9ddf1888c056" data-name="Calque 1">
+      <rect x="4" y="4" width="432" height="432" style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"/>
+      <g>
+        <line x1="129.01" y1="174.08" x2="102.34" y2="143.47" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+        <polygon points="123.58 133.69 81.14 119.13 89.74 163.16 123.58 133.69" style="fill: #999"/>
+      </g>
+      <g>
+        <line x1="327.69" y1="176.55" x2="355.89" y2="143.65" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+        <polygon points="368.65 163.23 376.9 119.13 334.58 134.03 368.65 163.23" style="fill: #999"/>
+      </g>
+      <g>
+        <line x1="326.38" y1="292.92" x2="352.21" y2="324.74" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+        <polygon points="330.65 333.78 372.55 349.82 365.49 305.51 330.65 333.78" style="fill: #999"/>
+      </g>
+      <g>
+        <line x1="130.53" y1="293.69" x2="101.47" y2="325.28" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+        <polygon points="89.4 305.26 79.61 349.04 122.43 335.64 89.4 305.26" style="fill: #999"/>
+      </g>
+      <rect x="129.01" y="174.08" width="197.37" height="118.83" rx="2" ry="2" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <rect x="67" y="103" width="321.39" height="261" rx="2" ry="2" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 10px"/>
+    </g>
+  </g>
+</svg>
