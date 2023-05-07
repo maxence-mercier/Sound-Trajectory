@@ -1,5 +1,5 @@
 # Sound-Trajectory
-Source code of « Sound Trajectory » software under licence GNU General Public License v3.0
+Source code of the Sound Trajectory software under licence GNU General Public License v3.0
 with the support of Tripinlab, UCA (Université Cote d'azur), X2RC2, CTELA, SFM (Société Française de Musicologie) and AFIM (Association Francophone d'Informatique Musicale). The opening of the Sound Trajectory source code is supported by the ANR-15-IDEX-01 programme as part of Maxence Mercier's doctoral contract in creation/research at the Côte d'Azur University.
 
 https://www.tripinlab.com/
