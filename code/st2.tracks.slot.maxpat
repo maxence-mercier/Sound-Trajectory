@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 2,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -293,7 +293,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 2,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -927,7 +927,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 2,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1434,7 +1434,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 2,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1645,6 +1645,7 @@
 					"fontface" : 2,
 					"fontname" : "Arial",
 					"fontsize" : 10.526129568599147,
+					"hidden" : 1,
 					"id" : "obj-22",
 					"maxclass" : "comment",
 					"numinlets" : 1,
@@ -1662,6 +1663,7 @@
 					"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ],
 					"bgoncolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"fontsize" : 10.0,
+					"hidden" : 1,
 					"id" : "obj-54",
 					"maxclass" : "textbutton",
 					"mode" : 1,
@@ -1685,6 +1687,7 @@
 					"fontface" : 0,
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
+					"hidden" : 1,
 					"id" : "obj-8",
 					"maxclass" : "comment",
 					"numinlets" : 1,
@@ -1768,7 +1771,7 @@
 				"box" : 				{
 					"autoscroll" : 0,
 					"bangmode" : 1,
-					"bgcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"bgcolor" : [ 0.533333, 0.0, 1.0, 1.0 ],
 					"bordercolor" : [ 0.376471, 0.384314, 0.4, 0.0 ],
 					"fontface" : 0,
 					"fontsize" : 12.0,
@@ -1784,7 +1787,7 @@
 					"presentation_rect" : [ 5.0, 20.0, 132.624933277954369, 20.0 ],
 					"rounded" : 0.0,
 					"separator" : "_",
-					"text" : "tracks 1",
+					"text" : "Multidelay",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"varname" : "textedit"
 				}
@@ -1920,8 +1923,8 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "st2.input.hoa.maxpat",
-					"numinlets" : 0,
+					"name" : "st2.fx.multidelay.maxpat",
+					"numinlets" : 1,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ 35.557984000000033, 6.441493500000036, 1382.0, 371.010572499999967 ],

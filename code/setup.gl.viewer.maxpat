@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 2,
-			"revision" : 2,
+			"minor" : 5,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -526,8 +526,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 2,
-							"revision" : 2,
+							"minor" : 5,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -659,8 +659,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 2,
-							"revision" : 2,
+							"minor" : 5,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -955,7 +955,7 @@
 					"bgfillcolor_type" : "color",
 					"fontsize" : 10.0,
 					"id" : "obj-33",
-					"items" : [ "screen", "n°0", "-", 2560, "x", 1440, ",", "screen", "n°1", "-", 1440, "x", 900 ],
+					"items" : [ "screen", "n°0", "-", 2560, "x", 1440, ",", "screen", "n°1", "-", 1728, "x", 1117 ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -1222,8 +1222,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 2,
-							"revision" : 2,
+							"minor" : 5,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2126,20 +2126,20 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 18.373092999999983, 16.329619999999977, 104.0, 22.0 ],
 					"restore" : 					{
-						"attn-opacity" : [ 0.499679327011108 ],
+						"attn-opacity" : [ 0.6 ],
 						"cube-opacity" : [ 0.0 ],
-						"fps" : [ 30 ],
+						"fps" : [ 60 ],
 						"gl-background" : [ 0.0 ],
 						"input-video" : [ 0 ],
-						"light-grid" : [ 0.238461673259735 ],
+						"light-grid" : [ 0.3 ],
 						"light-gui" : [ 0.0 ],
 						"output-video" : [ 0 ],
 						"path-interp" : [ 40 ],
 						"path-slide" : [ 0 ],
 						"screen-reference" : [ 0 ],
 						"screen-reference[1]" : [ 1 ],
-						"size-traj" : [ 2.0 ],
-						"traj-light" : [ 1.0 ]
+						"size-traj" : [ 3.0 ],
+						"traj-light" : [ 0.85 ]
 					}
 ,
 					"text" : "autopattr gl-setup",
@@ -2189,7 +2189,7 @@
 					"bgfillcolor_type" : "color",
 					"fontsize" : 10.0,
 					"id" : "obj-42",
-					"items" : [ "FlatScreen", ",", 360, "VR", ",", "Domemaster", 210 ],
+					"items" : [ "no", "screen", ",", "FlatScreen", ",", 360, "VR", ",", "Domemaster", 210 ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -2322,7 +2322,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 738.0, 694.0, 248.0, 142.0 ],
+					"patching_rect" : [ 738.0, 694.0, 241.0, 271.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 490.0, 75.0, 226.5, 266.0 ],
 					"varname" : "video",
