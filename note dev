@@ -1,0 +1,9 @@
+note dev
+
+
+2.1.13
+
+
+- fix channel offset loading for ambisonic aux
+- complete rebuild of osc send module with new feature as derivative and spatgris mode
+- fix some glitch on the listener motion on dolly mode

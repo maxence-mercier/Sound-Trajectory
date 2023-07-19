@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>measure</title>
+  <g id="dd7021ec-2274-4a47-b8bf-efd10247eed1" data-name="Calque 2">
+    <g id="2f676f20-b2e7-4466-8743-d19fcacd5b04" data-name="Calque 1">
+      <rect x="4" y="4" width="432" height="432" style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"/>
+      <line x1="112.21" y1="338.31" x2="211" y2="148" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <line x1="343.61" y1="337.97" x2="247" y2="148" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <rect x="209.01" y="107.52" width="42.54" height="42.54" rx="2.84" ry="2.84" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <g>
+        <path d="M120.23,345.36l1.41.49" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px"/>
+        <path d="M124.51,346.82A332.54,332.54,0,0,0,337,346.34" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px;stroke-dasharray: 3.0238776206970215,3.0238776206970215"/>
+        <path d="M338.39,345.85l1.41-.49" style="fill: none;stroke: #999;stroke-miterlimit: 10;stroke-width: 6px"/>
+      </g>
+      <path d="M112,347.5c11.58,0,11.6-18,0-18s-11.6,18,0,18Z" style="fill: #999"/>
+      <path d="M343.92,348.87c11.58,0,11.6-18,0-18s-11.6,18,0,18Z" style="fill: #999"/>
+      <path d="M228.64,136.85c11.58,0,11.6-18,0-18s-11.6,18,0,18Z" style="fill: #999"/>
+    </g>
+  </g>
+</svg>

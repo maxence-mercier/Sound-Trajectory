@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 440 440" style="enable-background:new 0 0 440 440;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#B3B3B3;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;}
+	.st1{fill:#999999;stroke:#999999;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;}
+	.st2{fill:none;stroke:#999999;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;}
+</style>
+<title>dual</title>
+<g id="a14c0a29-acc3-464b-9d29-e6517f1f8b84">
+	<g id="_x31_f758dd1-8425-4960-89d6-3cbc185e0a18">
+		<path class="st0" d="M390.5-23.5"/>
+		<rect x="232.3" y="169.7" class="st1" width="139.5" height="139.5"/>
+		<polygon class="st2" points="418.3,123.1 371.8,169.7 232.3,169.7 278.8,123.1 		"/>
+		<polyline class="st2" points="371.8,309.2 418.3,262.7 418.3,123.1 		"/>
+		<polyline class="st2" points="278.8,123.1 278.8,262.7 232.3,309.2 		"/>
+		<line class="st2" x1="418.3" y1="262.7" x2="278.8" y2="262.7"/>
+		<rect x="4" y="4" class="st2" width="432" height="432"/>
+		<rect x="23" y="169.7" class="st2" width="139.5" height="139.5"/>
+		<polygon class="st1" points="209.1,123.1 162.5,169.7 23,169.7 69.5,123.1 		"/>
+		<polyline class="st2" points="162.5,309.2 209.1,262.7 209.1,123.1 		"/>
+		<polyline class="st2" points="69.5,123.1 69.5,262.7 23,309.2 		"/>
+		<line class="st2" x1="209.1" y1="262.7" x2="69.5" y2="262.7"/>
+	</g>
+</g>
+</svg>

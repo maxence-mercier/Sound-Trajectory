@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>speakers</title>
+  <g id="f4fe2ba3-506c-4de0-a2a0-a82c362682e6" data-name="Calque 2">
+    <g id="aba5d40d-e4fd-4518-87e2-a1e7da9a5448" data-name="Calque 1">
+      <rect x="4" y="4" width="432" height="432" style="fill: none;stroke: #999;stroke-linecap: round;stroke-linejoin: bevel;stroke-width: 8px"/>
+      <rect x="164.2" y="152.76" width="57.37" height="152.47" style="fill: #999;stroke: #999;stroke-miterlimit: 10"/>
+      <path d="M301,85h0m0,0-4.41,288-75-72V157L301,85m0-5h-.19a5,5,0,0,0-3.18,1.3l-79.42,72a5,5,0,0,0-1.64,3.7V301a5,5,0,0,0,1.54,3.61l75,72a5,5,0,0,0,8.46-3.53L306,85.24c0-.08,0-.16,0-.24a5,5,0,0,0-4.89-5Zm0,10h0Z" style="fill: #999"/>
+    </g>
+  </g>
+</svg>
