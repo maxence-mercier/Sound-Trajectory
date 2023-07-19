@@ -1,0 +1,190 @@
+---------------------------------------------------------------------
+Sound Trajectory - Version 2.1.13 -  July 19 2023 -  Note Releases
+---------------------------------------------------------------------
+
+Download Sound Trajectory :  
+https://www.tripinlab.com/downloads
+
+____________________________
+
+Improvement and Fixed Bugs
+___________________________
+
+v2.1.13 - 19/07/23
+
+- correction of channel offset loading for ambisonic auxiliaries
+- complete rebuild of osc send module with new features such as derivative mode and spatgris mode
+- bug fix for listener motion in dolly mode
+
+v2.1.12 - 15/05/22
+
+- first release of source code in github repository 
+
+V2.0.2 to v2.1.12
+
+- many things, a long list of changes but no public release except 2.0.6 and 2.0.7 in 2022
+
+V2.0.1 - 11/04/22
+fix many bugs on Mac and Windows
+- better osc support in and out
+- faster loading
+
+V2.0 - 04/02/22
+new version with :
+- new audio engine
+- new 3d engine
+- new multi delay
+- new Dbap algorithm
+- new functionally 
+
+v1.8.1b - 16/12/20
+new lightweight version: miniST with up to 16 trajectories and 32 audio inputs
+Sound trajectory is without limitation. - A single application with all the features. STcontrol, will soon be available separately with support for the main external spatial audio processors.
+- Optimization of the graphical interface
+- faster response from the 3D viewer
+
+v1.8.1 - 10/11/20
+Sound Trajectory SUITE
+- Fixed many bugs
+- osc module correction
+- new midi channel configuration for the sampler
+- The fast launch is increasing, but still needs to be patient .
+- fixed a bug that limited the number of audio tracks 
+
+v1.7.0 - 01/06/20
+- new app for each mode Mix, Sampler or Control
+- fix loading freezing
+- remove splash screen
+
+
+v1.6 - 01/11/19
+- New modes for switch to Suite, Mix, Sampler or Control, each mode is dedicated to a use of ST
+- New open session menu
+- up to 128 tracks, 255 audio inputs and 128 voices for the sampler
+- add recorder for speakers output
+- Improved audio rendering
+- Improved reverb rendering
+- Improved virtual delay space
+- Improved speaker delay correction 
+- OSX Catalina support
+- change plugin source by user folder 
+- fix source control layout
+- fix recall parameters with cuelist 
+- fix sampler audio clic
+- fix clic problem when switching panel "Interaction Mapping"
+- fix random mode on trigger event
+- fix meter position selection
+- fix few minor bugs
+- demo limit 10 min
+- no support for Windows 7 & 8 but can work correctly in some case...
+
+
+v1.5 - 15/04/19
+- New interactive mapping engine with modules for audio analyser & event
+- sampler is now always active on suite version
+- New audio recorder for HOA bus
+- New reverse function for the Tracks editor
+- many improvements, more speed time loading, CPU saving
+- save feature restored
+- fix few minor bugs 
+- limited support for Windows 7 & 8 - work only with native resolution, no support for fullscreen
+- autosaving remove for fix small freeze after store a new cue
+- demo extend to 1h 
+- some minor arrangement in GUI
+- increase visibility of path (OpenGl)
+- fix sources setup save
+- New version dedicated to mix : ST mix - beta
+- New version dedicated to sampler : ST sampler - beta
+- New version dedicated to control : ST control - beta
+
+
+v1.1.2 - 07/12/18
+- fix installer for windows
+- fix menu problem
+- fix & improved vst loading
+- fix preference saving for windows
+
+v1.1.1 - 30/11/18
+- The configuration of the speakers is now independent of the session.
+- import picture of map in 3d viewer for adjust speakers position and others..
+
+v1.1.0 - 15/11/18
+- new space navigator in viewer with key [CTRL + mouse]
+- improved performance and speed loading
+- vst3 support
+- gui improvement 
+- only windows 10 is supported on PC
+
+v1.0.8 - 15/05/18
+- new version Limited Edition with 4 tracks limit
+- new beta version "only editor" up to 128 trajectory
+- fix multichannel sources openGl
+- fix meter openGl position & index
+- improved Space Designer (lesser parameter)
+
+v1.0.7 - 25/03/18
+- new installer for mac and windows
+- change default folder for Session; Sample and Data, moved in ~/Documents/Sound Trajectory
+- improved midi support for sampler
+- improved voice management on sampler
+- fix audio drivers initializing
+- fix mixer button status 
+- fix reverb initializing
+- add preview tracks/inputs/outputs on session panel
+
+v1.0.6 - 16/03/18
+- fix control of Cuelist by OSC and midi 
+- add Pgm Change with Bank and program (CC0+PG)
+- update m4l tools in ~/data/tools/m4l
+- default source position after create a new session
+
+v1.0.5 - 11/03/18
+- optimized 3D render viewer
+- improved loading time
+- fix APFS issues on macOS
+
+v1.0.4 - 26/02/18
+- audio-meters on 3d view
+- new documentation online
+- improved attenuation map
+- improved aux ambisonic with vst support
+- simplified some feature
+	-change name of slide by smooth motion
+	-remove interpolation slider
+	-remove button enable meter
+	-remove auto-mute button
+	-remove enable-meter button
+	-remove simple reverb algo 
+- add native screenmode in menubar for best performance
+- fix multisource mapping
+- fix driver selection at startup, with a popup warning if driver settings have changed since the last session.
+
+v1.0.3 - 05/02/18
+- optimized cpu load
+- improved sampler engine
+- improved speaker visualization
+- adding save item on menu "file" (save on current index of Cue manager, slot 1 if the Cue manager is not 	used)
+- select edit track by osc
+- init session menu loading
+- Auto turn off audio driver when a feedback is detected to protect hearing and hardware.
+- simplify random walk in algo section
+
+v1.0.2 - 24/01/18
+- automute dsp input
+- doppler effect
+
+v1.0.1 - 20/01/18
+- drag and drop file or folder on the sampler
+- automute dsp 
+- app signed on macOS for pass Gatekeeper
+- reverb on all channels
+- vu-meter on all channels
+- vst gui
+
+v1.0.0 - 10/01/18
+
+//////////////////////
+Tripinlab.com 
+----------------------
+contact@tripinlab.com
+//////////////////////
